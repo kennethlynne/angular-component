@@ -1,0 +1,27 @@
+{
+  "name": "angular-component",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-ngmin": "~0.0.2",
+    "grunt-karma": "~0.8.0",
+    "karma-script-launcher": "~0.1.0",
+    "karma-requirejs": "~0.1.0",
+    "karma-jasmine": "~0.2.0",
+    "karma-phantomjs-launcher": "~0.1.0",
+    "karma": "~0.12.6",
+    "grunt-bump": "0.0.13"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kennethlynne/angular-component.git"
+  }
+}

@@ -176,14 +176,3 @@ RSAKey.as
 .tmp/
 
 bower_components/
-.idea/angular-component.iml
-
-.idea/encodings.xml
-
-.idea/misc.xml
-
-.idea/modules.xml
-
-.idea/scopes/scope_settings.xml
-
-.idea/vcs.xml
